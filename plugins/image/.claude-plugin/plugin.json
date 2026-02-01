@@ -1,0 +1,8 @@
+{
+  "name": "image",
+  "description": "图片处理能力，例如：图片生成、图片识别等",
+  "author": {
+    "name": "leon",
+    "email": "digital.nomad.leon@gmail.com"
+  }
+}

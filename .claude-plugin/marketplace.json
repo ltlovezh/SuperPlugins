@@ -1,0 +1,22 @@
+{
+  "name": "super-plugins",
+  "owner": {
+    "name": "leon",
+    "email": "digital.nomad.leon@gmail.com"
+  },
+  "metadata": {
+    "description": "日常使用的插件",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "image",
+      "description": "图片处理能力，例如：图片生成、图片识别等",
+      "author": {
+        "name": "leon",
+        "email": "digital.nomad.leon@gmail.com"
+      },
+      "source": "./plugins/image"
+    }
+  ]
+}
